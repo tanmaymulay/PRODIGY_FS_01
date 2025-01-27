@@ -156,18 +156,16 @@ This application can be easily deployed to platforms like Vercel or Netlify. Mak
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/wassimOubaziz/PRODIGY_FS_01/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/tanmaymulay/PRODIGY_FS_01).
 
-## 📝 License
 
-This project is [MIT](https://github.com/wassimOubaziz/PRODIGY_FS_01?tab=MIT-1-ov-file) licensed.
 
 ## 👤 Author
 
-Wassim Oubaziz
+Tanmay Mulay
 
-- GitHub: [@wassimOubaziz](https://github.com/wassimOubaziz)
-- LinkedIn: [wassim-oubaziz](https://www.linkedin.com/in/wassim-oubaziz/)
+- GitHub: [@tanmaymulay}(:https://github.com/tanmaymulay)
+- LinkedIn: [Tanmay Mulay](https://www.linkedin.com/in/tanmay-mulay-157817259))
 
 ## 🙏 Acknowledgements
 
