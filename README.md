@@ -84,7 +84,7 @@ or
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+5. Open [https://tanmaymulay.github.io/PRODIGY_FS_01/](https://tanmaymulay.github.io/PRODIGY_FS_01/) in your browser to see the application.
 
 ## 📁 Project Structure
 
